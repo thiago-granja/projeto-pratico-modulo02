@@ -67,4 +67,16 @@ Preencha a checklist para finalizar o exercício:
 - [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
 - [ ] Copiar a url do seu fork e enviar na plataforma
 
+#### **DICAS:**
+Não sabe por onde começar? Que tal começar adicionando os elementos do formulário dentro da TAG html e depois estilizar, só após isso vá para o javascript.
+
+Nesse exercício será necessário: 
+- Usar o evento de submit, lembre-se de não deixar a  página atualizar
+- Usar o evento de clique
+- Criar validação para os campos obrigatórios
+- Selecionar os elementos via querySelector
+- Limpar os inputs
+- Redirecionar o usuário para a página correta
+- Manipular a visibilidade dos  modais
+
 ###### tags: `módulo 2` `front-end` `HTML`
