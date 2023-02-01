@@ -68,6 +68,8 @@ Preencha a checklist para finalizar o exercício:
 - [ ] Copiar a url do seu fork e enviar na plataforma
 
 #### **DICAS:**
+
+
 Não sabe por onde começar? Que tal começar adicionando os elementos do formulário dentro da TAG html e depois estilizar, só após isso vá para o javascript.
 
 Nesse exercício será necessário: 
@@ -78,5 +80,7 @@ Nesse exercício será necessário:
 - Limpar os inputs
 - Redirecionar o usuário para a página correta
 - Manipular a visibilidade dos  modais
+
+## Quem leu até aqui, dá um grito na monitoria :)
 
 ###### tags: `módulo 2` `front-end` `HTML`
