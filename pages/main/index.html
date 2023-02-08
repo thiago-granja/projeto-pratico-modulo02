@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main</title>
+    <link rel="stylesheet" href="../../global_css/style.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header>
+        <div></div>
+        <div style="justify-self:center">KONTACTS</div>
+        <div><img src="../../assets/exit.svg"></div>
+    </header>
+
+
+    <main>
+        <button style="align-self: flex-start;">Adicionar</button>
+        <div class="contacts-container summary">
+            <div class="name">Nome</div>
+            <div class="email">Email</div>
+            <div class="phone">Telefone</div>
+        </div>
+        <div class="contacts-container">
+            <div class="name">Nome</div>
+            <div class="email">Email</div>
+            <div class="phone">Telefone</div>
+            <div class="delete">
+                <button><img src="../../assets/trash.svg"></button>   
+            </div>
+        </div>
+        <div class="contacts-container">
+            <div class="name">Nome</div>
+            <div class="email">Email</div>
+            <div class="phone">Telefone</div>
+            <div class="delete">
+                <button><img src="../../assets/trash.svg"></button>   
+            </div>
+        </div>
+        <div class="contacts-container">
+            <div class="name">Nome</div>
+            <div class="email">Email</div>
+            <div class="phone">Telefone</div>
+            <div class="delete">
+                <button><img src="../../assets/trash.svg"></button>   
+            </div>
+        </div>
+        <div class="contacts-container">
+            <div class="name">Nome</div>
+            <div class="email">Email</div>
+            <div class="phone">Telefone</div>
+            <div class="delete">
+                <button><img src="../../assets/trash.svg"></button>   
+            </div>
+        </div>
+        <div class="contacts-container">
+            <div class="name">Nome</div>
+            <div class="email">Email</div>
+            <div class="phone">Telefone</div>
+            <div class="delete">
+                <button><img src="../../assets/trash.svg"></button>   
+            </div>
+        </div>
+        <div class="contacts-container">
+            <div class="name">Nome</div>
+            <div class="email">Email</div>
+            <div class="phone">Telefone</div>
+            <div class="delete">
+                <button><img src="../../assets/trash.svg"></button>   
+            </div>
+        </div>
+
+
+
+    </main>
+
+    <div class="modal-bg" id="modal-create">
+        <div class="modal-create">
+            <form action="">
+                <div class="inputs-container">
+                    <h1>Novo Contato</h1>
+                    <input type="text" placeholder="Nome">
+                    <input type="email" placeholder="Email">
+                    <input type="text" placeholder="Telefone">
+                </div>
+                <div class="buttons-container">
+                    <button>adicionar</button>
+                    <button type="button" class="clear">limpar</button>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+
+    <div class="modal-bg" id="modal-delete">
+
+        <div class="modal-delete">
+            <form action="">
+                <div class="inputs-container">
+                    <h1>Confirma a exclusão?</h1>
+                    <p>Deseja excluir o contato?</p>
+
+                </div>
+                <div class="buttons-container">
+                    <button>excluir</button>
+                    <button class="clear">cancelar</button>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>

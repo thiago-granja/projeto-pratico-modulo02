@@ -1,0 +1,107 @@
+main {
+    width: 956px;
+}
+
+img {
+    cursor: pointer;
+}
+
+.modal-bg {
+    display:none;
+    position:fixed;
+    width: 1440px;
+    height: 900px;
+    background-color: rgba(16, 15, 15, 0.56);
+}
+
+.modal-frame {
+    position:absolute;
+    background-color: white;
+    width: 476px;
+    height: 563px;
+    padding: 56px;
+}
+
+input {
+    width: 364px;
+    height: 50px;
+    background-color: #FDFAFA;
+
+    margin-bottom: 17px;
+    padding-left: 17px;
+
+}
+
+button {
+    width: 364px;
+    height: 50px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    
+}
+
+.clear {
+    background-color: #FB0615A6;
+}
+
+.active {
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.modal-create {
+    width: 476px;
+    height: 563px;
+
+    background-color:white;
+    border-radius:8px;
+
+    display:flex;
+
+}
+
+.modal-delete {
+    width: 476px;
+    height: 319px;
+
+    background-color:white;
+    border-radius:8px;
+
+    display:flex;
+}
+
+form {
+    display:flex;
+    align-items:center;
+    align-content:center;
+    justify-content: space-evenly;
+
+    flex-direction: column;
+    width:100%;
+    height:100%;
+}
+
+form div h1 {
+    margin: 30px;
+}
+
+.buttons-container, .inputs-container {
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.delete {
+    display:flex;
+}
+
+.delete button {
+    width: 16px;
+    height: 16px;
+    background-color: white; 
+}
+
+.delete img {
+    max-width: 16px;
+}
