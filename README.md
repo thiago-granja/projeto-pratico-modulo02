@@ -10,7 +10,8 @@ Você também pode clicar nesse [link](https://www.figma.com/file/ahfVRDWzpTivoL
 
 ---
 
-As páginas abaixo páginas foram desenvolvidas:
+Para abrir o projeto, basta executar o arquivo `index.html` de qualquer pasta dentro da pasta pages. Assim que a página for aberta em seu navegador, poderá navegar normalmente através dos botões.
+As páginas abaixo foram desenvolvidas:
 
 ### Sign In
 
@@ -33,7 +34,7 @@ As páginas abaixo páginas foram desenvolvidas:
 ![](https://i.imgur.com/HGUBGYp.png)
 
 Nesse exercício foi necessário: 
-- Usar o evento de submit;
+- Manusear o evento de submit;
 - Usar o evento de clique;
 - Criar validação para os campos obrigatórios;
 - Selecionar os elementos via querySelector;
