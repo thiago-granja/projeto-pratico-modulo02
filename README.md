@@ -1,8 +1,8 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Projeto prático - Módulo 2
+# Kontacts
 
-Esse projeto se trata de uma agenda de contatos, onde um usuário poderá se cadastrar, realizar login, adicionar e remover contatos de uma lista.
+Esse projeto se trata de uma agenda de contatos onde um usuário poderá se cadastrar, realizar login, adicionar e remover contatos de uma lista.
 
 Para concluir esse desafio prático, me baseei no arquivo figma `projeto.fig` no repositório.
 
